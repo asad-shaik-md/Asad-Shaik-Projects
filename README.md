@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio! Here, you'll find details of my web development projects built using the **MERN stack and Next.js**.  
 
-**Note:** My projects are hosted on **Render.com**, so the Next.js and backend servers may take up to **50 seconds** to spin up after the first request.  
+### **Note: My projects are hosted on **Render.com**, so the Next.js and backend servers may take up to **50 seconds** to spin up after the first request.**
 
 ## 🚀 Projects  
 
